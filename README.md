@@ -9,7 +9,7 @@ Essa aplicação foi desenvolvido utilizando **Java Spring e Spring MVC** para c
 
 <img width="850px" src="./.github/spring.png">
 
-📎 link para iniciar com spring: https://start.spring.io/
+📎 Link para iniciar com spring: https://start.spring.io/
 
 <h2 id="pre-requisites">💻 Requisitos</h2> 
 
