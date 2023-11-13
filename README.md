@@ -7,9 +7,14 @@
 
 Essa aplicação foi desenvolvido utilizando **Java Spring e Spring MVC** para criação do servidor, **Spring Data JPA** para manipulação e persistência de dados, **Lombok** para geração de boilerplates e Postgres Driver para realizar a conexão com banco de dados Postgres.
 
+<img width="300px" src="./.github/spring.png">
+<link href='https://start.spring.io/'>
+
 <h2 id="pre-requisites">💻 Requisitos</h2> 
 
-Para rodar esse projeto você precisa ter o Java instalado na sua máquina.
+Para rodar esse projeto você precisa ter o Java instalado na sua máquina. (Usamos a versão 17 nessa aplicação).
+
+Entrar no site
 
 <h2 id="how-to-use"> 🚀 Instalando o projeto</h2>
 
@@ -25,9 +30,9 @@ $ cd Cardapio-digital
 
 Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven
 
-🆙
+<img width="300px" src="./.github/instalar-depend.png">
 
 E por fim, entre no arquivo da classe `CardapioApllication` para executar o projeto
 
-🆓
+<img width="300px" src="./.github/executar.png">
 
