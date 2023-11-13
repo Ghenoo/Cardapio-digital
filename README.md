@@ -18,8 +18,6 @@ Foi desenvolvida utilizando **Java Spring e Spring MVC** para criação do servi
 Para rodar esse projeto você precisa ter o Java instalado na sua máquina. (Usamos a versão 17 nessa aplicação).
 <br>
 
-Criar o projeto com spring e adicionar as dependências conforme abaixo 👇.
-<br>
 
 <h2 id="how-to-use"> 🚀 Instalando o projeto</h2>
 
