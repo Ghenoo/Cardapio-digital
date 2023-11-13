@@ -25,9 +25,9 @@ $ cd Cardapio-digital
 
 Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven
 
-<img width="300px" src="./.github/instalar-deps.png">
+🆙
 
 E por fim, entre no arquivo da classe `CardapioApllication` para executar o projeto
 
-<img width="300px" src="./.github/executar.png">
+🆓
 
