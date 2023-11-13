@@ -14,10 +14,12 @@ Foi desenvolvida utilizando **Java Spring e Spring MVC** para criação do servi
 <h2 id="pre-requisites">💻 Requisitos</h2> 
 
 Para rodar esse projeto você precisa ter o Java instalado na sua máquina. (Usamos a versão 17 nessa aplicação).
+<br>
+
+Criar o projeto com spring e adicionar as dependências conforme abaixo 👇
+📎 Link para iniciar com spring: https://start.spring.io/
 
 <img width="850px" src="./.github/spring.png">
-
-📎 Link para iniciar com spring: https://start.spring.io/
 
 <h2 id="how-to-use"> 🚀 Instalando o projeto</h2>
 
