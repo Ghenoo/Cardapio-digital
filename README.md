@@ -11,15 +11,13 @@ Este projeto é um simples protótipo de um Cardápio Digital, aonde é alocado 
 
 Essa aplicação foi desenvolvido utilizando **Java Spring e Spring MVC** para criação do servidor, **Spring Data JPA** para manipulação e persistência de dados, **Lombok** para geração de boilerplates e Postgres Driver para realizar a conexão com banco de dados Postgres.
 
-<img width="850px" src="./.github/spring.png">
-
-📎 Link para iniciar com spring: https://start.spring.io/
-
 <h2 id="pre-requisites">💻 Requisitos</h2> 
 
 Para rodar esse projeto você precisa ter o Java instalado na sua máquina. (Usamos a versão 17 nessa aplicação).
 
-Entrar no site
+<img width="850px" src="./.github/spring.png">
+
+📎 Link para iniciar com spring: https://start.spring.io/
 
 <h2 id="how-to-use"> 🚀 Instalando o projeto</h2>
 
