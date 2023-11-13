@@ -8,7 +8,7 @@
 
 <h2 id="application">📺 Aplicação</h2>
 Este projeto é um simples protótipo de um Cardápio Digital, aonde é alocado no bando de dados as imagens, preços, e nome das comidas de um cardápio digital no banco de dados.
-
+<br>
 Foi desenvolvida utilizando **Java Spring e Spring MVC** para criação do servidor, **Spring Data JPA** para manipulação e persistência de dados, **Lombok** para geração de boilerplates e Postgres Driver para realizar a conexão com banco de dados Postgres.
 
 <h2 id="pre-requisites">💻 Requisitos</h2> 
@@ -17,6 +17,7 @@ Para rodar esse projeto você precisa ter o Java instalado na sua máquina. (Usa
 <br>
 
 Criar o projeto com spring e adicionar as dependências conforme abaixo 👇
+<br>
 📎 Link para iniciar com spring: https://start.spring.io/
 
 <img width="850px" src="./.github/spring.png">
